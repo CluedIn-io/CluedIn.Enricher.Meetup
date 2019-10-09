@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <ProjectGuid>{E5832F12-6BB8-4ACA-AB23-F82888FF3971}</ProjectGuid>
     <RootNamespace>CluedIn.ExternalSearch.Providers.Meetup</RootNamespace>
